@@ -1,2 +1,2 @@
 # ChessApp
-I am trying to create a chess application using only html, css, and js.
+I am trying to create a chess web application.
